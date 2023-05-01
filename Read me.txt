@@ -1,0 +1,5 @@
+Ce projet est un jeu 2D développé en langage C, utilisant la bibliothèque SDL (Simple DirectMedia Layer) pour gérer les graphismes et le son. Le jeu est conçu pour être joué sur un système Ubuntu.
+
+Le jeu comprendra des fonctionnalités telles que des mouvements fluides, des effets sonores et des effets visuels attrayants. Le joueur sera en mesure de contrôler un personnage et de naviguer à travers différents niveaux en évitant les obstacles et en combattant des ennemis.
+
+Le code source sera disponible sur GitHub, ce qui permettra aux autres développeurs de collaborer et de contribuer au projet. Ce projet est idéal pour les programmeurs C souhaitant développer leurs compétences en utilisant la bibliothèque SDL.
